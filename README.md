@@ -9,6 +9,12 @@ This project provides a set of tools for optimizing the placement of rectangular
 - **SVG Generation**: Produces SVG files showing the placement of panels on each sheet for easy visualization and planning.
 - **Customizable Gaps**: Allows specifying custom gaps between panels and from the edges of the sheets to account for cutting tools or other requirements.
 
+## Project Intent and Technology
+
+This project aims to optimize the placement of panels for constructing insulated Layens hives, with a special focus on utilizing the cutting-edge capabilities of the upcoming [Maslow4 CNC](https://www.maslowcnc.com/about-maslow4). The Maslow4 CNC represents a significant advancement in CNC technology, offering precision cutting that is ideal for custom beekeeping hive construction. By designing with the Maslow4 CNC in mind, it ensures that the hive components are efficiently cut from plywood sheets, reducing waste and maximizing the use of materials.
+
+The use of Maslow4 CNC technology in this project underscores our commitment to innovative, sustainable beekeeping practices. By leveraging precise, computer-aided cutting techniques, the aim is to create hives that not only support the health and productivity of bee colonies but also promote the use of sustainable materials and construction methods.
+
 ## Getting Started
 
 ### Prerequisites
