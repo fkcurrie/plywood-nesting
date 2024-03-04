@@ -28,13 +28,16 @@ This project provides a set of tools for optimizing the placement of rectangular
 3. Prepare your panels.csv and sheets.csv files according to the project's specifications.
 
 panels.csv format:
-Name,Quantity,Length,Width
-A,2,809.62,461.17
-B,1,809.62,349.25
-...
+```sh
+   Name,Quantity,Length,Width
+   A,2,809.62,461.17
+   B,1,809.62,349.25
+```
 sheets.csv format:
-Length,Width
-2438.4,1219.2
+```sh
+   Length,Width
+   2438.4,1219.2
+```
 4. Run the main script
 
 ### Contributing
