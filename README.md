@@ -41,7 +41,7 @@ Length,Width
 Contributions to improve the project are welcome. Please follow the standard fork-and-pull request workflow on GitHub.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 ### Acknowledgments
 Thank you to all the contributors who have helped to enhance this project.
