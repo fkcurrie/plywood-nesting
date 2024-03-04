@@ -44,5 +44,5 @@ Contributions to improve the project are welcome. Please follow the standard for
 This project is licensed under the Apache License 2.0.
 
 ### Acknowledgments
-Thank you to all the contributors who have helped to enhance this project.
-This project was inspired by the need for efficient use of materials in carpentry and manufacturing.
+- This project was inspired by and may incorporate ideas or techniques outlined in the plans for an insulated Layens hive available at [Horizontal Hive](https://www.horizontalhive.com/how-to-build/insulated-layens-hive.shtml). These detailed plans offer valuable insights into sustainable beekeeping practices and hive design.
+- This project was inspired by the need for efficient use of materials in carpentry and manufacturing.
